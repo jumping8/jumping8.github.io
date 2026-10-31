@@ -1,3 +1,20 @@
+Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64
+Version: 1.3.7-4+repair.4
+Section: Tweaks
+Maintainer: 一刀
+Installed-Size: 40749
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/88液态玻璃插件_1.3.7-4_1.3.7-4_repair.4_iphoneos-arm64.deb
+Size: 10747508
+MD5sum: f1aba27c30468ea9647a9193f81934a1
+SHA1: 6376eb390419a2bc5934167333985e35f1a6247a
+SHA256: 4d15e97fee5f9c64ee539e7de6b8019b3cfbd45ba70e3c0e3f04ca0c4135f267
+SHA512: ecf18213fcc5837c41f5812ebfc1fa9e270884ad53ac87d346bf960c36aeabc8f14347eaee7d181e0941858f47a45bdb2edc9ea3b73de6f7058afd5a72dc058c
+Description: 液态玻璃
+Name: 88液态玻璃插件 1.3.7-4
+Author: 一刀
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.14
