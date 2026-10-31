@@ -144,6 +144,25 @@ SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.filzacrack
 Name: Filza Crack
 Author: Netskao
 
+Package: Flex3beta
+Architecture: iphoneos-arm64
+Version: 1:3~Beta92
+Section: Tweaks
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmware (>= 9.0)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
+Filename: debs/Flex3beta_1_3_Beta92_iphoneos-arm64.deb
+Size: 9650236
+MD5sum: 7bfc71350b6ca07cb7d10262527b49b5
+SHA1: 100ac07eadd2a4fd4adf63a606aab2cfce314ca5
+SHA256: 73c90c9fb64ba9fbadc22b6b7fa823ea6055a04195f882ae5a4c8c8c2f73242c
+SHA512: 27732d58a7f0287d05a86486381e412003370aa94aad0cf63297ad50ad3e2cc5ca59ce60f9e342466b83b82ae7695a586af3ccd5fa85bfc2c2762354e4c85786
+Description: 开发您自己的调整并在Flex社区云上共享。
+Name: Flex 3 Beta92
+Recommended: com.rpetrich.rocketbootstrap
+Author: John Coates
+
 Package: com.axs.floating-view
 Architecture: iphoneos-arm64
 Version: 1.6.0-6
