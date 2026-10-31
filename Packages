@@ -150,6 +150,24 @@ Author: zhaonan <invalidunit@icloud.com>
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
+Package: com.lclrc.hammerit
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: 你的iPhone不止于此
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: debs/Hammer_It_1.7.1_iphoneos-arm64.deb
+Size: 978728
+MD5sum: 25bd62b11049cdaeafead7e93f91d390
+SHA1: 01675a8527d0fd7bea01e3a26841a08ab95de4d0
+SHA256: 6c9bf06534e5cf83ce391cf701c7f944b47613ac88c92f6dc17b98a1f672de0c
+SHA512: 4075d302861bfcec0846f639316a82655d0b66ee7133de95cc29da7dce086b40f2b06a1b4935c9ab19fd3c70a48eff55a0a7e18e4eb3cb1bf6d93b4c7e2342e8
+Description: Control your text or translate as you wish.
+Name: Hammer It
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+
 Package: com.aa22qq.lockeventringer
 Architecture: iphoneos-arm64
 Version: 15.0.0
