@@ -15,6 +15,82 @@ Description: 液态玻璃
 Name: 88液态玻璃插件 1.3.7-4
 Author: 一刀
 
+Package: com.jumping.aemuloauto
+Architecture: iphoneos-arm64
+Version: 0.2.0
+Section: Tweaks
+Maintainer: jumpinglds
+Depends: mobilesubstrate
+Filename: debs/AemuloAuto_0.2.0_iphoneos-arm64.deb
+Size: 22248
+MD5sum: 3d98ff401c24ba3902b6a5ba231b6771
+SHA1: 4ddf136d42972e5d404e758d4d42b70ef92add68
+SHA256: 3679109ee2d1e932cbeb62a1153414594d2c43c1a2cccfdf24f4e7fd64b79fba
+SHA512: c9c52a5d46c791114271e71961145697e5e2c5c4b76d3583aabbe9b68e6aefcc365e39795cd85a3494b74aa9b63ec816d1a71ced8ecc11f1d872509624510082
+Description: Aemulo 自动模拟（免手动操作 + 后台常驻）
+Tag: purpose::tweaks
+Name: AemuloAuto
+Author: jumpinglds
+
+Package: byg.iosios.net.crane-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.14-6
+Section: 软件破解
+Maintainer: 搬运工
+Installed-Size: 3120
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: debs/Crane软件多开神器正版-Rootless_1.3.14-6_iphoneos-arm64.deb
+Size: 572212
+MD5sum: 9b95c0238f9c4784d0866592a7335712
+SHA1: 4947b806219557020f9c824bc8bde62908771336
+SHA256: 7ee709edb1452363bfe7ff84385ac6e94348af69666ba7dde9ce68afc3f3b3e9
+SHA512: 974ab2745ad422d6867b9065b387bdb1eb46beabb1a2bf181236defd028d2bd423f7df3951caab8c3e50234fcbdd3ed3a93c54d21fbb8779e7004b11eed29637
+Description: Crane allows you to create multiple containers per application! Multiple containers for your applications! 本插件为正版授权，下载即可使用！功能：为应用程序提供多个容器，软件及账号多开神器。已修复，并且支持消息推送，一切正常！如果有问题不能使用，并且经济条件好的，可以购买正版支持作者！有问题进群反馈，搬运工源全网首发！
+Tag: Cydia
+Name: Crane软件多开神器正版-Rootless
+Author: opa334
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.nan.disableupdates
+Architecture: iphoneos-arm64
+Version: 0.1.1
+Section: System
+Maintainer: zhaonan
+Pre-Depends: file-cmds
+Filename: debs/Disable_Updates_0.1.1_iphoneos-arm64.deb
+Size: 1124
+MD5sum: 3ef02994d44cd6b9c16527ca00e35fe5
+SHA1: 27da117d5df37787ed2126271ecee93f69ab03c0
+SHA256: 88dab19f5503a4e806350555f4dc79d9f6685053313a67dce0f20e4f5ec51072
+SHA512: 48a0c41d5a013a1ed19851adf4f8c629f4bef2aacbb4185485b763694732e9b68b3e13533585f9d8d0bc601352daa1ce9a37a580b3f5cc0a200011f746ec6dfd
+Description: 通过锁定 /var/MobileSoftwareUpdate/MobileAsset/AssetsV2 来阻止系统更新
+Name: Disable Updates
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.lclrc.exacttime
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 1284
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exacttimephone, com.gilshahar7.exacttimemessages
+Filename: debs/ExactTime_-_给个准确时间，OK？_2.0.4_iphoneos-arm64.deb
+Size: 99684
+MD5sum: 77d79dd1108ac7109a1f9d346a68ac1c
+SHA1: 48d2997698a692a1ccf0a45483d5ae4481052a60
+SHA256: 5545bca7994ab7267d036a4bac8b505cd39b29d805cfdde1c48f85ab39f57394
+SHA512: d8c0310ce0f50bea72d6604f54997d402348a9b4c0ba941c258d6b5b085a8bdf46735944f1ae1d2d6eceeb57954a7f99633569ba933f5e22134b999d7129247b
+Description: 在通知、信息、电话、邮箱中显示准确时间，闹钟中显示剩余时间。Shows the exact time of notifications, messages, calls and emails, and show remain time of alarms.
+Name: ExactTime - 给个准确时间，OK？
+Author: gilshahar7, SquidForce
+Icon: file:///var/jb/Library/PreferenceBundles/ExactTimeprefs.bundle/ExactTime@3x.png
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.lclrc.exacttime/depiction.json
+
 Package: com.netskao.flexlist
 Architecture: iphoneos-arm64
 Version: 1.4-2
@@ -56,6 +132,249 @@ Author: be-huge
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
 
+Package: com.nan.givemedeb
+Architecture: iphoneos-arm64
+Version: 0.3.1
+Section: Addons
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk
+Filename: debs/Give_me_deb_0.3.1_iphoneos-arm64.deb
+Size: 2232
+MD5sum: 7f1089f593a91f836cb67db047aca422
+SHA1: 9afc30a23b6ab1c1adb14c86d26a489235b03972
+SHA256: c2ae0bbce2bdbab6bd93080e9337cbe885ec964fb1072b1426ce24062b976ade
+SHA512: 01d9b738b9e64be6164836d1bb15e6781c234a36d8f1bf16f54fc275a85571cce2c528519619df0b2d9e2a72b600740b4d33ef4227546a3336f515bee1c540a9
+Description: 尝试保存 apt 缓存目录下所有 deb
+Name: Give me deb
+Author: zhaonan <invalidunit@icloud.com>
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.givemedeb/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
+Package: com.aa22qq.lockeventringer
+Architecture: iphoneos-arm64
+Version: 15.0.0
+Section: Tweaks
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/LockEventRinger_15.0.0_iphoneos-arm64.deb
+Size: 41668
+MD5sum: 10468c0be9e9830254d8eda303bb58c1
+SHA1: 8f2a4c4d6b907c510835683bbc9924d8eeb959c7
+SHA256: b64deee581f63550389a0644c9b8ba6fd444338ff502ca70b22d8332b0ca99ec
+SHA512: 5bad758bf8d285299935cd8e19bb5eab10fa474dd11eddeda38b4a23bc22b191f5b3582d7702edef6f680caae7b7f1d7f8938b2dd4ae1ae16e6eda182c2512c5
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x 
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Name: LockEventRinger
+Author: aa22qq
+icon: https://huayuarc.github.io/icon/lockeventringer.jpg
+
+Package: com.nahtedetihw.loopvideos-rootless
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: debs/LoopVideos-Rootless_1.0_iphoneos-arm64.deb
+Size: 3116
+MD5sum: 11edeb60ec4edf80cda9969866ad32be
+SHA1: 77e7839220572638e570f79bc858aa62c9913461
+SHA256: b9cc5f83951bcef8b9c8adbd0f8515a32ad3ea418559c6b9f1c2793262e90435
+SHA512: f04b990a4e5a3c0cbf44e66c182164c8d9b330481152188445bdbcd20e2c3df723b4eebd6e67ad979399056bcd6bb017b756e2e5e49fec0ae36abadca552511c
+Homepage: https://nahtedetihw.github.io
+Description: Loop videos in Photos app!
+Tag: role::enduser
+Name: LoopVideos-Rootless
+Depiction: https://nahtedetihw.github.io/depiction/web/com.nahtedetihw.loopvideos-rootless.html
+SileoDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+ModernDepiction: https://nahtedetihw.github.io/depiction/native/com.nahtedetihw.loopvideos-rootless.json
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.loopvideos-rootless/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.7.1
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.iosdump.memorycontrol
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 780
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/MemoryControlX_1.3_iphoneos-arm64.deb
+Size: 91796
+MD5sum: dece97dc045a8ebf678f0a936a3be267
+SHA1: 65c9900ef895aea5e7c27595035bbb3a80cf3669
+SHA256: f5cc68e2cea4e4afc6cb156f139106fcc7cd57f6559f2fdc54c13f39102bc050
+SHA512: cf7bbfdfad8f75742e19aa0311347d7d84917d76bce8f72e656bfa9e70d44b7e0b17b615a0cb2b2cc2d66f781e17c3fe422f62deda35a0ee2e7c591e3d0caeee
+Description: iOS 14-17 进程内存与优先级调整
+Name: MemoryControlX
+Author: iosdump
+
+Package: com.brend0n.nopassafterrespringsafe
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/NoPassAfterRespring_Safe_0.0.3_iphoneos-arm64.deb
+Size: 3464
+MD5sum: 0102a6497bb104f153e862e6c5020e6e
+SHA1: dd46a4463147d8b30784f71a4d2fea954e7ca793
+SHA256: 5bf9a0798c41921185fdf4bcc56b001e78261f21061b8b5dfe1181d075f7bd65
+SHA512: b22880b1c84552d892bb636edcdf51c4bd49b433f5dd595b61799988abdbe3ae65f4902afc7d3a4f03e0875e8abd1946512e154d19eeca79587667437f5c4f6f
+Description: Disables passcode after a respring. This version does NOT modify system file. It's safe to use. 在注销前是解锁状态的情况下，注销后自动跳过人脸或指纹识别到桌面。
+Name: NoPassAfterRespring (Safe)
+Author: Brend0n <brendonjkding@126.com>
+
+Package: com.nahtedetihw.nowidgetlabels.lans233
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: debs/NoWidgetLabels隐藏小组件标题_1.0_iphoneos-arm64.deb
+Size: 3656
+MD5sum: a389169b589ef84e2f147effb6a0772e
+SHA1: 8588d6245bfeabf85f23137b3dea8d43e995dfba
+SHA256: 3cb887468a3f1c84fcc441976b4c8bd309f052a5162f7daf717c54d8d3f92ec5
+SHA512: 84aacaffeaa27f7b32d518689f9b0c668846163b41905ebb860acfc06a5c10949d4065e484ed87aeb5a3cf33f7ad7ff92b74dd4f711b22f5b074fd52746d4a26
+Description: 能够隐藏小组件的标题，仅支持14至16.2版本
+Tag: role::enduser
+Name: NoWidgetLabels隐藏小组件标题
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.nowidgetlabels-rootless/icon.png
+Tags: compatible_min::ios14.0, compatible_max::ios16.2
+Author: ETHN <ethanwhited2208@gmail.com>
+SomeOtherEntryToControl: True
+
+Package: com.huayuarc.oknaozhongcrack.rootless
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Huayuarc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/OK闹钟_Crack-Rootless_0.0.1_iphoneos-arm64.deb
+Size: 2992
+MD5sum: ae89de84b9de878f7f6e87693b871be2
+SHA1: 67419e1f5e6bfaba8c792d8836e21a7d275df757
+SHA256: 4571ec3bba88ee8006d87d5c84be3af996cc1c30798398b3a584bc1abdf0c2f0
+SHA512: 1ece1649fb94d6c7d428ff4cf475c74144ccfb1bbb7222f8726e7eb1f0379811b499cac18ad21bf41d7b4427891a896e4c22b9f7f88126fc07da0f3b45bb0229
+Description: 解锁vip，节假日轮班纪念日排班补班报时智能语音提醒倒班大小周指定日期法定工作日等超多功能。
+Name: OK闹钟 Crack-Rootless
+Author: Huayuarc
+
+Package: com.anthopak.powercutsactionspack-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts | com.anthopak.powercuts-rootless
+Filename: debs/Powercuts_Actions_Pack_Rootless_1.3.1_iphoneos-arm64.deb
+Size: 60552
+MD5sum: 285c3616ab8bb97e62319ca6b5e214dd
+SHA1: b6ffe551d82f3206de577842a1de93a253feb7c5
+SHA256: 1c37a0d25182ad2e169d12c5cbdfbb56a36b7fd8ced3d35a70dec33aa1f11020
+SHA512: f35ac74764c39cb49d0d34ec5063e4d814078b5de526fa16b15a3126abf5232f1987ee5407cc2448a894170960ab21dd9121ca4fc499d8eb537f85d79ffe261e
+Homepage: https://repo.anthopak.dev
+Description: Pack of actions for Powercuts
+Name: Powercuts Actions Pack (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactionspack-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.powercutsactionspack-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.ps.recordpause
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 216
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: debs/RecordPause_2.0.7_iphoneos-arm64.deb
+Size: 11888
+MD5sum: 02364e0e7793361fc68b1886152bfff4
+SHA1: dbfe0ad114c2720d2da438e9b227f3942012aad4
+SHA256: d42f2bfa00317c71c0ef675eaaa7fa3e7d5d0f3fc1a8dc3a5afa718a34cd4e4e
+SHA512: 9d052f8bfd23117d4fbd0292cbade698e1a79e8753e41c3abae340d18fef853a25e3d23b858d788cc9c8dacc9c61b32af321ddd0d3c33d09fa81cbde1b013cfe
+Description: Pauses/resumes video recording in iOS Camera app.
+Name: RecordPause
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/recordpause.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
+
+Package: byg.iosios.net.sneakyca.rootless
+Architecture: iphoneos-arm64
+Version: 2.2.5
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Conflicts: byg.iosios.net.sneakycam
+Filename: debs/SneakyCam_隐私相机-Rootless_2.2.5_iphoneos-arm64.deb
+Size: 105812
+MD5sum: 1c0bf8c35c5a460aaf146e0eb97a0911
+SHA1: e45f46068a8ba8221b2a6d5a85fbd499dd751cb3
+SHA256: ade232eb5c26c4f1341a86fc933897a7bb100de6b4963a13f9e2386b736b9ca5
+SHA512: 25f91c9026051a83c996404ebc1ad4bef357384b436e788fba4e45a4d5e1d7bc9831ab6850c18b86a3309355968ede237d9ed7d41e18ac51aecc25b7ed1bd7cb
+Description: 本插件去掉了legacy64依赖，但可能会造成安全模式，有问题请用源里的另一款！SneakyCam 是一款支持息屏状态使用拍照或录像的插件。即使在关闭屏幕的情况下，也能随时随地谨慎地拍照或录制视频。Smile 滫威锋网友提供，SneakyCam去除兼容层，直接安装插件本体。使用基板作者的Allemand (OldABI v2) 修改。
+Name: SneakyCam 隐私相机-Rootless
+Author: Spark
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.anthopak.springcuts-rootless
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>= 14.0), mobilesubstrate, firmware (>= 14.0)
+Filename: debs/SpringCuts_Rootless_1.4_iphoneos-arm64.deb
+Size: 32064
+MD5sum: f15e3324ab455071c7ce7be193acb2da
+SHA1: a583d186a90d13d6f09a7e91f8e8fbb993acfc36
+SHA256: 6b9024c63a2e5dcae6b6fe35457a24701cefc5814e41940411109b67718b77af
+SHA512: d58e589268f6049f1810254ba4ec2175ebecdda0e7480eb4b142a166424e4b3a7738acb65edd527302b7fe077e9679bba4fc4fcebb27e90196c1a68a2d1a9386
+Homepage: https://repo.anthopak.dev
+Description: Run Shortcuts from SpringBoard (Support library, Activator actions, CLI command)
+Name: SpringCuts (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.springcuts-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.springcuts-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.springcuts-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.springcuts-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.ioscreatix.sugarcanes
+Architecture: iphoneos-arm64
+Version: 1.4-1
+Section: Tweaks
+Maintainer: 超级小白
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.ioscreatix.sugarcane
+Filename: debs/SugarCane_亮度百分比_1.4-1_iphoneos-arm64.deb
+Size: 32492
+MD5sum: a7f00d1801d81c8fb8bf411b6e36a763
+SHA1: e9c713ad0aeeae396e970ed29741f71768a8de00
+SHA256: 2f414607483d186a138b480bb6ee874f0d8856d885ce2a4d69bf8e3e30a53578
+SHA512: 85043b04d0c1f66e1d70ee04c7edf0d061d28a829d41c9a119a4fcbb2063ecc055239d44cb5b2f81fe9600d55f231d91a7b818db080b6fc0bdf7204f3385d1da
+Description: 控制中心亮度及音量模块显示百分比
+ * Percentage indicator for Control Center sliders with preferences on iOS 15-17
+Name: SugarCane 亮度百分比
+Author: iOS Creatix & 超级小白
+Icon: https://TrollStoreX.Github.io/sileodepiction/SugarCane/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/SugarCane/js.json
+
 Package: com.charlieleung.trollopenjb
 Architecture: iphoneos-arm64
 Version: 1.3.7
@@ -91,4 +410,96 @@ SHA512: 1654a472fdcf83a16b8be9cf32af672de0e27caca5ca4d3f43d0c605476f688454f841e0
 Description: 原生岛通知，从简即可。仅仅支持iOS16.0+ (patched: duration up to 30s + live Beijing clock, arm64e chained-fixups reload fix)
 Name: native-island-notifier
 Author: sunshinesong
+
+Package: com.be-huge.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.38.1
+Section: Tweaks
+Maintainer: doimty
+Installed-Size: 828
+Depends: firmware (>= 15.0)
+Filename: debs/insulation_0.1.38.1_iphoneos-arm64.deb
+Size: 59736
+MD5sum: 3ae4f6e2ab07e41877e48bf64d8c24c2
+SHA1: 5b5e788850e64d1fdf32871e8ab83bf079b906d1
+SHA256: 165ddc794943ff3534df11429c745f1c6f76dfcc47c1cae8ddcffbf8e735e2ab
+SHA512: 32477e0b10d376b599e428f97abeef87ee4b495d9db303bf5517d7af5bde0d7966b026fb00c9be4aed48c3e1b6d33216f31aa04eec9fdd2044edb511dd35ae8c
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.82flex.noredirect
+Architecture: iphoneos-arm64
+Version: 2.10
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 580
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/禁字决_2.10_iphoneos-arm64.deb
+Size: 55680
+MD5sum: ff0ce818a16d90a5aeb205bc1acc5c10
+SHA1: fcbd240604a34a538be98a74cd40914bf537d3b5
+SHA256: 6bac1882a282796c3adcb6fad03ea4b8c0d551f6cbc6d59222bcfb2ecbf904ea
+SHA512: 3ab7eaa2de93174bf52474b1ca8733700ecdcbb14e1b9fa8d9d127be52cb6a8de85645579e041d72b60e59fdbc3fa4aa5c4ddc5817e1c8567760bcc9814f6e31
+Description: 停止指定的应用程序重定向到App Store、Safari或其他应用程序。应用跳转行为监管
+Name: 禁字决
+Author: Lessica <82flex@gmail.com>
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/jzj.png
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/jzj.json
+
+Package: com.squidforce.disablepastealert16
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: debs/禁用iOS16_粘贴警告弹窗和粘贴提醒_-_DisablePasteAlert16_1.0_iphoneos-arm64.deb
+Size: 4060
+MD5sum: c78c62363524db0f05f54c1849c2ee69
+SHA1: 614c13a66ca0f0ae4d571e5b3259edb4c447190a
+SHA256: 2819f681724492bce6b66b76da8244a3eb2e477900bfddcebbe3071a5c2a8cf4
+SHA512: 40ee1006a27804a9b9d8708aa2a37c438f824f27d4cb2a322a20d950d55bf4b22cd32877d5a4c804e5628477a55cefa99497dc1938ce6f0bd2fe4a6798e77e0b
+Description: 1. 禁用iOS16+粘贴警告弹窗，并自动允许
+ 2. 禁用粘贴提醒
+ * 如只需要禁用警告弹窗，可以降级安装版本0.0.1
+Name: 禁用iOS16+粘贴警告弹窗和粘贴提醒 - DisablePasteAlert16
+Author: SquidForce
+
+Package: byg.iosios.net.removewidgetbg
+Architecture: iphoneos-arm64
+Version: 1.7
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: debs/移除小组件背景-Rootless_1.7_iphoneos-arm64.deb
+Size: 29904
+MD5sum: bea0bd267ef1733a56972f10b96ae82e
+SHA1: 65b2d9dfe8bbe1ab78a070960b7de7ef15b932db
+SHA256: 20bd31df38ff69e9648c8b2ae72ca39e7c1599bd8a1617e40f047610a6a63d81
+SHA512: 97d00edaf5621f067eb16ebe98708fffd4f85af30c4a9f2530a6caa087f060fa553142724a848a4c22c05e2c0854dc2c539a37e4b4d56900e7bbfb77e5e4275b
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。一款很不错的小插件，喜欢折腾的用户可以下载试试！
+Name: 移除小组件背景-Rootless
+Author: Lessica
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.autofaceunlock-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Section: 系统增强
+Maintainer: 搬运工
+Installed-Size: 452
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/自动面容解锁-Rootless_1.1-7_iphoneos-arm64.deb
+Size: 63604
+MD5sum: bc6893fe89444dcb29e75a03baf37500
+SHA1: 3421eef884fd5a20a72fc4fd92ddb01301a7a9f3
+SHA256: d1a3155cbcbdba4c423b13b00265c2b643da599c92d96f2bb3566e09f026c786
+SHA512: defe6bb51b6eff82ff28c2b7f0e7a1bcd74d21eb60902f3b3c14ec8812b076aad98f02da2c9e51c1d6a1e20b0380c6767f6f0ff5e1583c7ce2a01be489334424
+Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
+Name: 自动面容解锁-Rootless
+Author: Netskao
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
 
