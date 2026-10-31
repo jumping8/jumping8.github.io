@@ -524,6 +524,23 @@ Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/trollopen.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.huami.wcpush2chat
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WCPush2Chat_1.0_iphoneos-arm64.deb
+Size: 8484
+MD5sum: 6732a50b15409ecbf059e6bab326e178
+SHA1: 76eb145d8e40dbc32720dbda9695d6ddf08d5c3f
+SHA256: 12fbc41cd91da2c0dc0545d825dbee6d0bf2a00800d1ed338ae49535f7104a38
+SHA512: a46d82f6786565ea951536cba240c961e064574b5f8bbe31c06635447d904ea0ec67228769b15bfe60bbc70053eee1559980ebea4ef7781f29ee2b4945c483ed
+Description: WCPush2Chat
+Name: WCPush2Chat
+Author: huami
+
 Package: cn.llld.snapshottool
 Architecture: iphoneos-arm64e
 Version: 4.2-2+debug
