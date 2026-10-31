@@ -552,6 +552,24 @@ Name: LockEventRinger 静音控制
 Author: aa22qq
 icon: https://huayuarc.github.io/icon/lockeventringer.jpg
 
+Package: com.hiddenspace.tweak
+Architecture: iphoneos-arm64
+Version: 0.5.0~hiddenspace2-15
+Priority: optional
+Section: Tweaks
+Maintainer: 隐藏空间项目
+Installed-Size: 1336
+Depends: firmware (>= 15.0), firmware (<< 18.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.11), ws.hbang.common (>= 2.0)
+Filename: debs/com.hiddenspace.tweak_0.5.0_hiddenspace2-15_iphoneos-arm64.deb
+Size: 189934
+MD5sum: 0e84dbc1cecd75924fe4447115d8e0a9
+SHA1: 5718431c90c941748b0dcf36f726ac4681367e02
+SHA256: 0d98da6743814110a9207359a20f42625258e26420e97e352efe6649780f4eab
+SHA512: f270dd1d2ad0c8da5a3e26d1b27b148e56daaa2b9f9c2200a28a56db2ea8dcde02ffe97c4ebda0f9392e915951303399a74c7b639b1efd6be5faf198ee3804c1
+Description: 通过双指手势打开独立隐藏应用空间，支持可选身份验证、隐藏应用通知、实时配置同步和无空位图标紧凑排列。
+Name: 隐藏空间（rootless）
+Author: 隐藏空间项目
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.14
