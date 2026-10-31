@@ -1,16 +1,16 @@
-Origin: ajumping8源
-Label: ajumping8源
+Origin: 爱8源
+Label: 爱8源
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: jumping8源
+Description: 爱8源
 Support: https://jumping8.github.io/
 Icon: https://jumping8.github.io/CydiaIcon.png
 MD5Sum:
  a4428d3dfed4e9b99958eb75e8b1618d  4799 Packages
- 0ad776c400b84d94839cf0e3fe0f483a  2679 Packages.gz
+ 02c1d904c9de1c6e8d163e7bcbc35ce6  2679 Packages.gz
 SHA256:
  864562d776ec5188f2c725d85f60896417d77b0991255b5537e259a799cff9b1  4799 Packages
- e07aa1b0d543a431d36511f8fc66d51eab8557020e76103409ac88073722b5f7  2679 Packages.gz
+ 6f59386a05805b37cb0a15efe35fbb3d13f9781df29387101b16a31006ad0181  2679 Packages.gz
