@@ -32,6 +32,24 @@ Tag: purpose::tweaks
 Name: AemuloAuto
 Author: jumpinglds
 
+Package: com.xuegao.automessage
+Architecture: iphoneos-arm64
+Version: 1.2-4
+Priority: optional
+Section: Tweaks
+Maintainer: Xuegao
+Installed-Size: 1024
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/AutoMessage_1.2-4_iphoneos-arm64.deb
+Size: 290100
+MD5sum: 3a322a052b5812290fc6cc3c26393375
+SHA1: 06d6538f4a1ed62b25449883bbf76522a9f2004a
+SHA256: ac08e73b348957d67d50ed37e559d0e80c45416be978ff73baf1f54be642bfe1
+SHA512: ec0b084231836df4133909bc13ff364c11e853896a0b6f25cb81733a34cd23e4aadc0b873a824be3ee57de30a4eaf82ff3dad6f139bcda9ce574fbfebf2436be
+Description: 抖音自动消息发送插件，支持每日自动发送消息
+Name: AutoMessage
+Author: Xuegao
+
 Package: byg.iosios.net.crane-rootless
 Architecture: iphoneos-arm64
 Version: 1.3.14-6
@@ -106,6 +124,24 @@ SHA256: 003415695a15b458fb15a1d1007ad2ce5d03fdc2e2f7383831851b304593b466
 SHA512: 6f9e5949de06673e0b108a7e4511c6f574c48774ad69217023caa3230312750e02236897be6440e8de261278ddc6c4e40bb3cc806bd9c0921942a9496464403a
 Description: FLEXList is a wrapper tool for FLEX Tool
 Name: FLEXList
+Author: Netskao
+
+Package: com.netskao.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.1-9
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/Filza_Crack_1.1-9_iphoneos-arm64.deb
+Size: 28688
+MD5sum: 3b89e527013bd37ddc15f02a7de80f20
+SHA1: 1545dafe4597a70920258db2a90caad7b6893f2f
+SHA256: 0d05e35edee2ce19b472a7a47805098219e04ce251ac296d70898592112eaf11
+SHA512: a68641bcf432a2acb67528c1ac1a1313b2e6aedfa663fe7784202c31684c34aec69608c78c04f558cd0ca325a1fdb9bc72763b3eb8f96d14f2f1cfe680b7874d
+Description: Filza Crack
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.filzacrack
+Name: Filza Crack
 Author: Netskao
 
 Package: com.axs.floating-view
@@ -331,6 +367,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/recordpause.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
 
+Package: byg.iosios.net.settingsrevamp
+Architecture: iphoneos-arm64
+Version: 3.0.1-1
+Section: 插件依赖
+Maintainer: 搬运工
+Installed-Size: 888
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, preferenceloader.rootless.tops, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, preferenceloader.rootless.top, com.hk.settingsrevamp.cn.rl
+Filename: debs/SettingsRevamp-设置归类_3.0.1-1_iphoneos-arm64.deb
+Size: 355724
+MD5sum: 456c0dfed18d00bc355c45eea0554d20
+SHA1: 23b182ddabc69be068cfebaef81d9f61934dd6a9
+SHA256: 160759ae63fcd47529ca49c5ab5b38df29309ec1cae3519f7b8c48b839adf016
+SHA512: 3b41157011e35f9f2e7abad57f364dfbf5b72cf3f122f7f824f23cb41bf00e50239e8a9e26a15e0bf550b2972422e6705868a797a1c927f60b441c3eeaee44ce
+Description: Customize the ios settings page插件设置归类，一款将插件归类，美化系统设置的插件，已最新汉化，无需汉化包！可以更换设置背景图片，把插件归纳到一起！具体可以观看插件介绍，非常的nice！后续有更新，等搬运工源第一时间更新！2.1.1旧版本搬运工源群文件里有！
+Name: SettingsRevamp-设置归类
+Author: SOPPPra
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: byg.iosios.net.sneakyca.rootless
 Architecture: iphoneos-arm64
 Version: 2.2.5
@@ -446,6 +502,22 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Name: insulation
 Author: be-huge & doimty
 
+Package: cn.llld.sjsp
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: rootless插件
+Maintainer: 来了老弟
+Depends: mobilesubstrate
+Filename: debs/双击锁屏-rootless_1.0_iphoneos-arm64.deb
+Size: 8504
+MD5sum: a6e020d2131e5fcc922117bc006c08f3
+SHA1: e1576e6e56ceda5dea8f89008c4f0f3a4b21f965
+SHA256: a4ec85b6a57fc53dfc299f662033952d47a7c877605a8e2914467f3ec2ce2a7d
+SHA512: 0a2f7b7676958999f9d712d5d15c6bf08febf32739a99e3f754f14b545649442b68fb081266b2622a62e7d7e6029c8b36ae0acaa82daf1767e5b5c8081887c91
+Description: Double-click the home screen to lock the device双击锁屏-rootless
+Name: 双击锁屏-rootless
+Author: 来了老弟
+
 Package: com.82flex.noredirect
 Architecture: iphoneos-arm64
 Version: 2.10
@@ -520,4 +592,40 @@ Name: 自动面容解锁-Rootless
 Author: Netskao
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.raincall
+Architecture: iphoneos-arm64
+Version: 2.6-2-14
+Section: 系统增强
+Maintainer: 搬运工
+Installed-Size: 2224
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/通话录音_2.6-2-14_iphoneos-arm64.deb
+Size: 328336
+MD5sum: d402145eaec7e09fa354368c555d90d2
+SHA1: 444fd952a4654f24aad8a0e958a8eacd0b0bb1d9
+SHA256: 3e48342564c49473bc4fe43ca120e424fb27dec2f134ce52ed291316cfd983bd
+SHA512: 685f089d49c9a2a4edbd59e0f1abb9bbb8178044ab304d79095796c44ce6c61b800fec05e270c753ecc3f6745901626084036504e16830362d388d4b1e266e1b
+Description: Rain开发的通话录音插件 - 支持蜂窝通话和 VoIP 通话录音，通过ATAudioTap 实现通话录音，支持微信/QQ/钉钉/Telegram/Line/FaceTime VoIP 通话录音，支持自动录音、混音合并、AI 分析、通话字幕、关键词高亮、双语字幕、日历集成、自动分类、质量监控、通话后复盘、通话时光机。还能自行添加想要录音的APP，真是一款免费又好用的插件，感谢作者无私开发，兄弟们冲冲冲！搬运工源，永久免费，持续更新！
+Name: 通话录音
+Author: Rain
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.hw.oknzpro
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 🄷🅆
+Installed-Size: 3548
+Depends: mobilesubstrate
+Filename: debs/🄷🅆_OK闹钟_0.0.1_iphoneos-arm64.deb
+Size: 474784
+MD5sum: c921055b920d3aefb876ac6d4fc1f209
+SHA1: d1ff3ce30c3954d4bd3114b8547468cddb166b88
+SHA256: 1ab8bf19cddb89b59ba073ff130b5333faaabbc8d8dbc2a733707449532745be
+SHA512: dc1205423a582e21da778b998ab2a57e4979a86ffb46f19a5ec079647426bac6dcd5f95d6b5d6da3c7c2f9f56fa51f555ae59441a203c84398a52263cbcdc456
+Description: 解锁VIP TG：@HelloWorld_1024
+Name: 🄷🅆  OK闹钟
+Author: 🄷🅆
 
