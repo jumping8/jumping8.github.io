@@ -1,0 +1,16 @@
+Origin: jumping8源
+Label: jumping8源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: jumping8源
+Support: https://jumping8.github.io/
+Icon: https://jumping8.github.io/CydiaIcon.png
+MD5Sum:
+ 3939c7cf55f2f3c833bdbeec988bfcc1  829 Packages
+ 6735bf510bfd12d944f4065caadd6749  614 Packages.gz
+SHA256:
+ 4ba868de247cfd00c037692a87986c0af69e1cb2137311088692b22ec863c3ba  829 Packages
+ 08495d378f56263e9fe6ca856c5af7bcdaf50df740ef1f7cda25e693992b6e4a  614 Packages.gz
