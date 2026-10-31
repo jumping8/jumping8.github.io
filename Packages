@@ -32,6 +32,49 @@ Description: FLEXList is a wrapper tool for FLEX Tool
 Name: FLEXList
 Author: Netskao
 
+Package: com.axs.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Section: 分屏插件
+Maintainer: Axs
+Installed-Size: 2700
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/Fv分屏破解版_1.6.0-6_iphoneos-arm64.deb
+Size: 652264
+MD5sum: c5542fff67b25856a2671de91dfbb90b
+SHA1: aaa229d869c6007c4b7e8cec6cbe509ac9cad453
+SHA256: 355189d3d2019f067dc8903af9e672662ff6b3aab71924b9fd0665160bb0cc24
+SHA512: f61d200b19d26d6e220adae234fd510705414ebe606337d20cb10c5f32e75518c5b1d2859610d169c297735fde7a31bc996fc9ea932d71f59406e221b1969953
+Description: 温馨提示:
+  * 1、仅供个人备份与学习研究使用。
+  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
+  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
+  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
+  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
+Name: Fv分屏破解版
+Author: be-huge
+Icon: https://axs66.github.io/pro/icon/svp.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
+
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: 分屏插件
+Maintainer: Charlie Leung
+Installed-Size: 4460
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/TrollOpen_分屏_1.3.7_iphoneos-arm64.deb
+Size: 1120828
+MD5sum: 0574d08bab42a41a678f24e332bb8816
+SHA1: c6ec6c4697c4c24350b10aa7a2af6e7749229afb
+SHA256: 9773bf1fd716646ebc9a17df46cee831f1c746158e8ad408643796dc2a0819b8
+SHA512: 87be7a82b02162dabe35053b4980b48577ea7013f180566cd6362823b24d7cd07105a8eb3fa0f6e6447e71847ddc36c002bb2e732e1adfd8cd269ef11f0faf6d
+Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开版，无后续更新，不需要反馈 bug。QQ 群：1094778353，后续付费更新联系群主或群管理。小黑子闭嘴吧，看看什么是最强分屏！
+Name: TrollOpen 分屏
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.14
