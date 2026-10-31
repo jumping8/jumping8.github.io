@@ -468,6 +468,71 @@ Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/trollopen.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: cn.llld.snapshottool
+Architecture: iphoneos-arm64e
+Version: 4.2-2+debug
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 1644
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/cn.llld.snapshottool_4.2-2_debug_iphoneos-arm64e.deb
+Size: 516568
+MD5sum: b6533244d44fe302bf4ff0611e4e51e6
+SHA1: c8ea2f4844e4603856e2e3d78b3b20d1f2a938e1
+SHA256: 8a570da2e1f7263e46b22a30fa732ef09969a290290bf2246d34f6cfe243976c
+SHA512: d315128d58c25f2c40c3bbf27b89aa1c0406308a318c3bfd9ce314fe2342cd034f27ec6cedabfde5bf63dc86f199e040279827268399119468c5fc0d0552881d
+Description: ---对于应用软件的图片，（AI编辑图，AI文生图等，无水印拿图，直接分享，复制到剪切板，图片分割，文字水印，涂鸦，截图，保存到相册，圆角处理，直接马赛克等功能，特意支持telegram,nicegram,swiftgram等应用，禁止截图或私密群组的图片保存到粘贴板和相册）。***(商店应用有百万千万级，非100%应用或场景支持，不可能挨个应用测试)***
+Name: STTool
+Author: 来了老弟
+icon: https://huayuarc.github.io/icon/SnapshotTool.png
+SileoDepiction: https://laileld.github.io/repo/sileodepiction/cn.llld.snapshottool/snapshottool.json
+
+Package: com.aa22qq.axiskey
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: aa22qq
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/com.aa22qq.axiskey_1.0.0_iphoneos-arm64.deb
+Size: 26392
+MD5sum: 274a7be9176932006b22b748d327217a
+SHA1: 520d5f226f7759542bc7350d77d3935df21fa8f5
+SHA256: 2cc1bcc89991e3269c2485bac59e244bff3dceacda534ce4c3b35cc8c0950f9a
+SHA512: 825b3302f2ccf3c0e56fcd1e786107e73165676ed3f61ddfc054f99ee4d77d112fa5245ffe4a028e3f6fecc50e22b5bdf0bf75a304f3cec47c4d010010670970
+Description: 结合物理按键与六轴空间方向的高效插件，支持连击与长按秒开微信扫一扫及付款码等常用功能。小伙伴需要什么功能，慢慢添加吧。感谢大家的支持，为爱发电……✌️
+Name: AxisKey 多维轴向按键
+Author: aa22qq
+icon: https://huayuarc.github.io/icon/axiskey.png
+
+Package: com.aa22qq.lockeventringer
+Architecture: iphoneos-arm64e
+Version: 15.0.0
+Section: Tweaks
+Maintainer: aa22qq
+Installed-Size: 688
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.aa22qq.lockeventringer_15.0.0_iphoneos-arm64e.deb
+Size: 41608
+MD5sum: 30c3b208a6496b45b695fb9eaa0703ce
+SHA1: ecc4bba9736143692a19cad5d7255c70fd2675f3
+SHA256: cd4a1c46ac65374c52874f6ed63ebc04dfa42ce129a216994db6dc9f3dbc5974
+SHA512: de2a29cc113e30435dc3dca0f67346e6bff8bae415e9ec55d9993d20e4c1185d4275be4e9780bc86c6c92af0c449a70d30776311c4c05dd52756945d38f17241
+Description: 自动控制 iPhone 响铃静音状态，支持命令行静音控制与设置启动停止开关，控制中心开关,灵动岛/HUD 弹窗的自定义隐藏开关，添加锁屏时振动开关，添加铃声音量跟媒体音量控制。
+  系统兼容:
+   - 支持 iOS 15.0 至 iOS 17.x 
+  功能一 (LockEventRinger):
+   - 锁屏时自动开启响铃，解锁时自动恢复静音；内置状态校验逻辑，完美规避下拉通知中心。
+  功能二 (RingerManagerControl):
+   - 支持配合 Powercuts / RemoteCompanion / notifyutil 等控制静音状态与灵动岛 HUD 响应。
+   - 开启静音: notifyutil -p com.ringer.control.mute
+   - 关闭静音: notifyutil -p com.ringer.control.unmute
+   - 状态切换: notifyutil -p com.ringer.control.toggle
+Name: LockEventRinger 静音控制
+Author: aa22qq
+icon: https://huayuarc.github.io/icon/lockeventringer.jpg
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.14
