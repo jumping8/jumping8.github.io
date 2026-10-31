@@ -89,6 +89,24 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disableupdates/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
+Package: com.dynamicx.tweak
+Architecture: iphoneos-arm64
+Version: 1.4.8
+Section: Tweaks
+Maintainer: 半生年华
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/DynamicX_1.4.8_iphoneos-arm64.deb
+Size: 185212
+MD5sum: 9e2bd7736152544e915ae867a591b6fc
+SHA1: 815ff64c7df93e31d14f972d0c6c552d165bc119
+SHA256: fed4fbf53c1f74a0799332115e00ab69183c9b0087e047e6cb9783f3cba68b99
+SHA512: b01b9c6d9419075ad007a269ccab76aa62e1d6e375121214512da1bb2bda5b7a05367cf50d31c7b9351fcb9bc57551bd543bd820ad3a46959b74617ca5385647
+Description: 万物皆上岛
+Name: DynamicX
+Author: 半生年华
+Icon: https://abc07968695-a11y.github.io/Sileo/DynamicX.png
+
 Package: com.lclrc.exacttime
 Architecture: iphoneos-arm64
 Version: 2.0.4
@@ -325,6 +343,25 @@ Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.nowidgetlabels-rootle
 Tags: compatible_min::ios14.0, compatible_max::ios16.2
 Author: ETHN <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.axs.notificationfilter
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Tune
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/Notification_Filter消息过滤_1.0.1_iphoneos-arm64.deb
+Size: 216288
+MD5sum: 124a538b36015ca01432e6823c381b0f
+SHA1: fdb9e06cba57861d41cddab7b3b6969a7594b5c8
+SHA256: 1b009bade229cd6f057199c4e1f8743f52a3347b4b805130dc757376348aaff3
+SHA512: c745450011bc597ed3d94882848658c22042d8ebafad7f9a66dd7989c4cb8a396c515933d51312079c7d4f474ca2a236fd93a1215c1f4a040de90bc997c86f19
+Description: 为越狱的iOS提供强大的通知过滤功能
+Name: Notification Filter消息过滤
+Author: Tune
+Icon: https://axs66.github.io/pro/icon/notificationfilter.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/notificationfilter/js.json
 
 Package: com.huayuarc.oknaozhongcrack.rootless
 Architecture: iphoneos-arm64
