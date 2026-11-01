@@ -50,6 +50,24 @@ Description: 抖音自动消息发送插件，支持每日自动发送消息
 Name: AutoMessage
 Author: Xuegao
 
+Package: com.hk.rootless.cc
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: 嗨-工具
+Maintainer: 妖刀
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
+Filename: debs/CCLess_rootless_2.0.6_iphoneos-arm64.deb
+Size: 504112
+MD5sum: e28b658022ec5570282763648cb85a53
+SHA1: b0e9a0d607e3772a9e0d955f0ed37c45ccba2c06
+SHA256: e8463c92160ab0b53fa8cd39a2b741d0a338206698d1cbcda4388cbfb9764aa8
+SHA512: e5c56e4da7fc3eec36499011f39ff0284caa1f6353f6581cca92a623249331f147710cb8e297ca2bc8d86fa62153a42289d73b030c1dc991de261220ec47b69c
+Description: 超级控制中心模块集合！
+Name: CCLess++(rootless)
+Author: 妖刀
+SileoDepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
+
 Package: byg.iosios.net.crane-rootless
 Architecture: iphoneos-arm64
 Version: 1.3.14-6
@@ -930,4 +948,21 @@ SHA512: dc1205423a582e21da778b998ab2a57e4979a86ffb46f19a5ec079647426bac6dcd5f95d
 Description: 解锁VIP TG：@HelloWorld_1024
 Name: 🄷🅆  OK闹钟
 Author: 🄷🅆
+
+Package: com.hw.aptv
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 🅷🆆
+Installed-Size: 3932
+Depends: mobilesubstrate
+Filename: debs/🅷🆆_APTV_0.0.1_iphoneos-arm64.deb
+Size: 523092
+MD5sum: 42408ab65822e16542dc1955cef8b1b9
+SHA1: 471b1840374d075729e39cb2eb0693af4c672b7f
+SHA256: 62f7c67ed0c3b3ac10fe0785820a74ed5892cf32ef31d2dec679f5631df841b2
+SHA512: 11ffaf03a2a4b7100aef3202cf110b30d94aeab8ed2ec94286ead32139b2104550090193dc9ededf7d743018710baad5cf1a0849fef86842c85b5b2717c96dd9
+Description: 解锁永久SVIP - TG：@HelloWorld_1024
+Name: 🅷🆆 APTV
+Author: 🅷🆆
 
