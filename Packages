@@ -660,6 +660,25 @@ Name: 独立锁屏时间渐变
 Author: MoWang
 icon: https://huayuarc.github.io/icon/lockscreengradientclock.png
 
+Package: com.sini.lynxtwo
+Architecture: iphoneos-arm64
+Version: 2.5.4
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 2952
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
+Filename: debs/com.sini.lynxtwo_2.5.4_iphoneos-arm64.deb
+Size: 676604
+MD5sum: 6ec5383ca585d4bde7bb8a64f8249d19
+SHA1: ad5bf1c694ca4a40fa51052769675342079e3d0a
+SHA256: ebb60ecf0ee990653f96cd03e110fda40f2194fba3b2ef3decf64fe48c98b2b4
+SHA512: 679df92b19ac25da57d8a38557d714916abd4af458f306175ba3b5725598898f96ec1bc8fd42ceabf8f4acbb06b0803ae2d42fd7d84c9d96ba3ac3959bd202fc
+Description: 大杂烩
+Name: Lynx 2
+Author: MTAC
+icon: https://sini921.github.io/repo/sileodepiction/icon/lynxtwo.png
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lynxtwo/js.json
+
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
 Version: 1.0.14
