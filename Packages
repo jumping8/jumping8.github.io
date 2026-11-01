@@ -438,6 +438,27 @@ Architecture: iphoneos-arm64
 Version: 1.3.1
 Section: Tweaks
 Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts | com.anthopak.powercuts-rootless
+Filename: debs/Powercuts_Actions_Pack_Rootless_-1.3.1-iphoneos-arm64.deb
+Size: 97612
+MD5sum: 4f32d07b76359c917f2a3ec0dfbf6de4
+SHA1: dfef798f747821e9d8b62db79a4e73cb7725b75d
+SHA256: a2a38f1e6ee421a1958cbb5164f8c44c448cc19c79647d4c789dc8107ae79a3f
+SHA512: 7a6d787f5e744364ed55f8dcf49f09ac6cb9081595527070fe994aba2fcba2d7b3ee32c1b9444ddacd186e17f916bab9bf817f22dae6c334679d841ec35355f8
+Homepage: https://repo.anthopak.dev
+Description: Pack of actions for Powercuts
+Name: Powercuts Actions Pack (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactionspack-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.powercutsactionspack-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.anthopak.powercutsactionspack-rootless
+Architecture: iphoneos-arm64
+Version: 1.3.1
+Section: Tweaks
+Maintainer: AnthoPak <anthopakdev@gmail.com>
 Depends: firmware (>= 14.0), mobilesubstrate, firmware (>= 14.0), com.anthopak.powercuts | com.anthopak.powercuts-rootless
 Filename: debs/Powercuts_Actions_Pack_Rootless_1.3.1_iphoneos-arm64.deb
 Size: 60552
@@ -452,6 +473,27 @@ Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercutsactions
 SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
 ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercutsactionspack-rootless.json
 Icon: https://repo.anthopak.dev/assets/com.anthopak.powercutsactionspack-rootless/icon.png
+Author: AnthoPak <anthopakdev@gmail.com>
+
+Package: com.anthopak.powercuts-rootless
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: System
+Maintainer: AnthoPak <anthopakdev@gmail.com>
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: debs/Powercuts_Rootless_-1.2.2-iphoneos-arm64.deb
+Size: 318886
+MD5sum: 039d8d8387b59e289199bf88897b7a90
+SHA1: 8d9f253b3a2a5195bd08fe7bfa486fba6e6d89a1
+SHA256: c0d1ef28d18c4bf2c130e00fb0aa38d11e765a863df5d59e4f73fedc5650233c
+SHA512: 15383c447e76a46790333f1d173262f6fabf3f35e1070cbe127e9670abe0ff19df631c9d868afd0654db1a1df5afd1ea687a8d8f39ac2b5b6199c98507264ac4
+Homepage: https://repo.anthopak.dev
+Description: A library and additions to supercharge Shortcuts!
+Name: Powercuts (Rootless)
+Depiction: https://repo.anthopak.dev/depiction/web/com.anthopak.powercuts-rootless.php
+SileoDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercuts-rootless.json
+ModernDepiction: https://repo.anthopak.dev/depiction/native/com.anthopak.powercuts-rootless.json
+Icon: https://repo.anthopak.dev/assets/com.anthopak.powercuts-rootless/icon.png
 Author: AnthoPak <anthopakdev@gmail.com>
 
 Package: com.ps.recordpause
