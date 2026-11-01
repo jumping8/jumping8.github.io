@@ -822,6 +822,25 @@ Description: FreePIP is a tweak to un-snap and scale the view of Picture-in-Pict
 Name: FreePIP
 Author: Soh Satoh
 
+Package: twitter.nowesr1.photosplus.lans233
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/twitter.nowesr1.photosplus.lans233_0.0.1_iphoneos-arm64.deb
+Size: 26412
+MD5sum: f161f1c0871cbc5eea078280f594ff35
+SHA1: e4dd2e1ea74b7b7453a204fd3a00485e9a5d3170
+SHA256: 1fa85c80b2e23c4fdfa3653bbc2cd6fd7c41fb2b5744fc6a9d64e06f49145fb1
+SHA512: e56bb9cb331dfc30c52702b5d5d06c310f89d4069a1b2802d32db53cdc98c185c6e1eaed27dcac4468381e533dfba9cf7ef935c17e967b9883349d463da42afa
+Description: 增强了照片app，更多的设置（汉化：lans233）
+Author: nowesr1 <nowe9r@hotmail.com>
+Name: PhotosPlus照片增强
+dev: nowesr1
+Icon: file:///var/jb/Library/PreferenceBundles/PhotosPlusPrefs.bundle/icon@2x.png
+
 Package: cn.llld.sjsp
 Architecture: iphoneos-arm64
 Version: 1.0
