@@ -798,6 +798,23 @@ Name: CCSupport
 Author: opa334
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
 
+Package: com.sini.autoscroll15
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: debs/com.sini.autoscroll15_1.0.0_iphoneos-arm64.deb
+Size: 5340
+MD5sum: 2fe4a9a134f7d2485310cd69e0d68d70
+SHA1: b39645af2858de68efd8b2e5e61512e4378ba45d
+SHA256: 90de202f2347b2ea910e952c1f4ae3f8d0045f011dfad7053ed2730af1f9087c
+SHA512: 0eecb2fae5e4e6a88a3a8698ea71619c8be4498bb99b985f41ba3ab48163c7b253f8d8a3c7c8bddb165cdfbf0375c81444c8ba66edb4bddedd93982c47ed489c
+Description: 只需滑一下即可不停的一直滑，手终于可以闲下来去打了
+Name: AutoScroll
+Author: pxcex
+icon: https://sini921.github.io/repo/sileodepiction/icon/auto.png
+
 Package: com.sini.lynxtwo
 Architecture: iphoneos-arm64
 Version: 2.5.4
