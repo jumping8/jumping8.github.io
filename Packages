@@ -223,6 +223,23 @@ Author: be-huge
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
 
+Package: jp.uzra.getdown
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/GetDown-1.0-iphoneos-arm64.deb
+Size: 3498
+MD5sum: 93add95e814813e450e44c8169e92025
+SHA1: df51e2f0c8ed3e0cdebb88f512666ec6c5df431a
+SHA256: 060b6bde71b98212fc4d4395b14db649cac22893227cbf0717cce32f73867186
+SHA512: e5f8269eab528548888e05189369609645704a56ede321eb37dbc163e19f271b4e6adc55476770e7e56e4600d58353783d73a2b17a59d718533a9827e6560bd8
+Description: Lock the device when placed face down
+Name: GetDown
+Author: uz.ra
+
 Package: com.nan.givemedeb
 Architecture: iphoneos-arm64
 Version: 0.3.1
