@@ -9,8 +9,8 @@ Description: 爱8源
 Support: https://jumping8.github.io/
 Icon: https://jumping8.github.io/CydiaIcon.png
 MD5Sum:
- 15710621548dd85264bc42f51c8fa75c  49005 Packages
- 99cd06a221c328d3fc1dbc4cbe1d5b1b  19682 Packages.gz
+ fd044cc58a5f14e446ced224913b1760  50558 Packages
+ aca1f303c76bf866d82339c3f57ca21d  20252 Packages.gz
 SHA256:
- bd43a5865ac5afae55e71b0e04e46f8df9d9d9b4e67b76c2a0531fccf00d9a65  49005 Packages
- 91b15a7e7c059b55f7007c56e77b8eb65486ca630b8663351b9e1c0e103db24a  19682 Packages.gz
+ 203a7faf64116a9b5b241ecae46f9e6dc5f6d45bd4d2917049dc5336a939d51e  50558 Packages
+ b2b6004d818e8cf8ea3eef2b390fbd9b0db22ffe75c50dd44476fa79af64474c  20252 Packages.gz

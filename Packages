@@ -71,6 +71,24 @@ Author: opa334
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: com.nan.disablethermalmonitord
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: zhaonan
+Depends: plutil
+Filename: debs/Disable_Thermalmonitord_0.1.0_iphoneos-arm64.deb
+Size: 1228
+MD5sum: 352e3ad234ef47b37cccbece0787b7f2
+SHA1: a461c5e56ae6230d5acd4f947c58fa57f8c753c8
+SHA256: dc029f0ffa6a68b94381ceccb911368b45c15527d15fc6b3b340def129e62d3a
+SHA512: af793301d0a5410b0b9b44ccc9d1ea3eed237d8041738f256cadb9d159890117db91cf53e286d5dde18968874e71bbaf7e7cc9643feb556a0c12ccb8943ebc89
+Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+Name: Disable Thermalmonitord
+Author: zhaonan
+SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
+
 Package: com.nan.disableupdates
 Architecture: iphoneos-arm64
 Version: 0.1.1
@@ -623,6 +641,24 @@ SHA512: f270dd1d2ad0c8da5a3e26d1b27b148e56daaa2b9f9c2200a28a56db2ea8dcde02ffe97c
 Description: 通过双指手势打开独立隐藏应用空间，支持可选身份验证、隐藏应用通知、实时配置同步和无空位图标紧凑排列。
 Name: 隐藏空间（rootless）
 Author: 隐藏空间项目
+
+Package: com.minis.lockscreengradientclock
+Architecture: iphoneos-arm64
+Version: 2.0.24
+Section: Tweaks
+Maintainer: MoWang
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.minis.lockscreengradientclock_2.0.24_iphoneos-arm64.deb
+Size: 282880
+MD5sum: 2f3200cbaaa0d74b0561ca9313188b11
+SHA1: 97ba75749473eccb6edb437cfa958d891bf0a397
+SHA256: dd1e73078316ee34b071be12ce07992e610bf105bba75267a21ebc2a233ab13e
+SHA512: bb34cab3762d5740ded019d8479ab4feec5728cdb35477f5ebccf872280bbfd61c4a75c18a0f74d25a112dbd5ad147cdde6102fc350b94fd5b03c3ec432cedfb
+Description: Configurable Lock Screen clock gradient.
+Name: 独立锁屏时间渐变
+Author: MoWang
+icon: https://huayuarc.github.io/icon/lockscreengradientclock.png
 
 Package: com.sunshinesong.native-island
 Architecture: iphoneos-arm64
