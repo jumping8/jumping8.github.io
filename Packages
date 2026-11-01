@@ -642,6 +642,24 @@ Description: 通过双指手势打开独立隐藏应用空间，支持可选身�
 Name: 隐藏空间（rootless）
 Author: 隐藏空间项目
 
+Package: com.iosdump.shellx
+Architecture: iphoneos-arm64
+Version: 11.0
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 20276
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: debs/com.iosdump.shellx_11.0_iphoneos-arm64.deb
+Size: 4475604
+MD5sum: 13b4651dca4380ae5568d5b80b06d023
+SHA1: c0dd5b2e46ec9a25598272e9924a46225aa9b5fe
+SHA256: a8b17da88d60a0f3476a6ddcf14517fcee722b931f5cf952bbb95c23fcea1fbe
+SHA512: 09c7afd8969ef461a0460b85e2cc5b1f8eefdfea52d5ffa36399d5bc2041761e03653ab17b91a9ba51b237e25fefe505538371e8429b4d32f1530c1ce0ae8b5f
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Name: SHELLX
+Author: iosdump
+
 Package: com.minis.lockscreengradientclock
 Architecture: iphoneos-arm64
 Version: 2.0.24
