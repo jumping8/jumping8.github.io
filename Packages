@@ -901,6 +901,23 @@ Description: 解除温控，一切从简即可。支持命令行切换模式：i
 Name: insulation
 Author: be-huge & doimty
 
+Package: iya.banana.hide2less.compat
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: System
+Maintainer: Banana
+Depends: firmware (>= 15.0)
+Filename: debs/iya.banana.hide2less.compat_0.1.0_iphoneos-arm64.deb
+Size: 17220
+MD5sum: 5c4e9bbf111d7e86fad1e752f5e56839
+SHA1: 502cb755715d99626c0a7a5437070bcb1212847d
+SHA256: d5c3872bf168ad08aa14995e77439b29b08e32d61f98593296aa68bdf612c431
+SHA512: 81377bc5379ec0c34eeb78f56db7388e1da193478adf8b66a83b051a380b75592aa6ae79a67e4adfaf89541b7e667e906e25ac43a40b215acc7a3fb2556264b7
+Description: 为 Hide2Less 转换后的 Rootless 插件提供所需的兼容支持。Shared path API compatibility for packages converted by Hide2Less.
+Name: Hide2Less Compatibility
+Author: Banana
+icon: https://huayuarc.github.io/icon/hide2less.png
+
 Package: jp.soh.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.3-1
