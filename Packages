@@ -759,6 +759,22 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
+Package: com.lessica.camover
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Depends: mobilesubstrate
+Filename: debs/com.lessica.camover_0.0.1_iphoneos-arm64e.deb
+Size: 4296
+MD5sum: 3bcc135ec3a471ebb53988867806d373
+SHA1: 54ad6547a4e64446110446c2f518448be0d5ba2e
+SHA256: 70c4068c9c5d792bdf2c4659d9f69be39ce07638f1024defe5855a42db6ae2dc
+SHA512: 1c1913af55385dde44264f8599109e72940abed50551a99537cbd364b53cff2ed63bf0bbf6c95e523200960c7648b0b69f8e3f7782685cb1c8624b6a06389fb7
+Description: 隐藏系统相机上下方的半透明黑色蒙层。
+Name: CamOver
+Author: Lessica
+
 Package: com.minis.lockscreengradientclock
 Architecture: iphoneos-arm64
 Version: 2.0.24
