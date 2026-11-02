@@ -723,6 +723,24 @@ Name: LockEventRinger 静音控制
 Author: aa22qq
 icon: https://huayuarc.github.io/icon/lockeventringer.jpg
 
+Package: com.crctdd.stayalivelite
+Architecture: iphoneos-arm64
+Version: 0.4.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 2568
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/com.crctdd.stayalivelite_0.4.1_iphoneos-arm64.deb
+Size: 279944
+MD5sum: ef7694bff5416c0a7d32f59d11485cd7
+SHA1: 6007478762fb7d9974529a6b289a62c70f581342
+SHA256: a62f6b1f6ac9ff5c94d14b72262eae79cb39730ba81c2f870cfb3bb26228f950
+SHA512: 44c99e1257183f12e2e0e81ba1160b6130c02c4c5d79ca557b3c8e982be80f66ceb173747eb0538cff13feb5849f8cb8bd6d3b83f82447dd9c849d91ae340dd4
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Name: StayAlive Lite
+Author: crctdd
+icon: https://huayuarc.github.io/icon/StayAliveLite.png
+
 Package: com.hiddenspace.tweak
 Architecture: iphoneos-arm64
 Version: 0.5.0~hiddenspace2-15
