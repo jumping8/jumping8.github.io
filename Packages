@@ -902,6 +902,29 @@ Description: xina越狱守护进程
 Name: XinaBlackList
 Author: xina520 <3608063@qq.com>
 
+Package: im.mjh.doleo
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Junhong
+Installed-Size: 1008
+Depends: firmware (>= 15.0), mobilesubstrate, dpkg
+Filename: debs/im.mjh.doleo_1.0.2_iphoneos-arm64.deb
+Size: 234624
+MD5sum: d2fe1d0b0fe0e285708af49b25bafbe9
+SHA1: 14b15ea4cf6a0634061d73a8c2d03ae2c6fb9b74
+SHA256: 807fb733919c039570e50e411cb4d3a755f43afa6cdc34517ac284d23bb8b1ac
+SHA512: 91786f02387d8f1df2f5fbbbc9fd35c74ed8baf657165c48f796cbff77fcc7fbe7890b3c518ac3ba0eaeb26aaf57e51c302ad3e42b01b8949eeaf3e808ed1cfe
+Homepage: https://doleo.goforit.si/
+Description: Sileo 的 DEB 下载与本地仓库工具。
+Name: Doleo
+Author: Junhong
+Icon: https://apt.mjh.im/assets/im.mjh.doleo/icon.png
+Depiction: https://apt.mjh.im/depiction/web/im.mjh.doleo.html?v=0945bdb0e780
+SileoDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.json?v=0e1406951917
+ModernDepiction: https://apt.mjh.im/depiction/native/im.mjh.doleo.json?v=0e1406951917
+Tags: compatible_min::ios15.0
+
 Package: com.be-huge.insulation
 Architecture: iphoneos-arm64
 Version: 0.1.38.1
