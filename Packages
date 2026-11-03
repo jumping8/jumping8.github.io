@@ -813,6 +813,25 @@ icon: https://huayuarc.github.io/icon/lockscreengradientclock.png
 
 Package: com.mlgm.actra
 Architecture: iphoneos-arm64
+Version: 1.1.1
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 3716
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.altlist, uikittools, launchctl
+Conflicts: com.example.actra-plugin
+Filename: debs/com.mlgm.actra_1.1.1_iphoneos-arm64.deb
+Size: 716124
+MD5sum: b33ded35300eb17181458f96923d41be
+SHA1: 3f1c9fe08b1626d41f41c15d0e21ac8d67d5ef92
+SHA256: 8a405f83c126d4236e8548a7d678a97152bf7f990c893a3989d08f8fc65d773e
+SHA512: 638e8ba74f3259357ce196c95d979e120990cbc5d87a601d39e38263527d52317ef3a36e816a834e60def50655c3d484846695faa60a00ac6d906ba993a3d882
+Description: 手势与事件自动化工具
+Name: Actra
+Icon: https://mlgm66.github.io/icon/actra.png
+Author: mlgm
+
+Package: com.mlgm.actra
+Architecture: iphoneos-arm64
 Version: 1.2
 Section: Tweaks
 Maintainer: mlgm
