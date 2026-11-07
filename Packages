@@ -658,6 +658,22 @@ Description: WCPush2Chat
 Name: WCPush2Chat
 Author: huami
 
+Package: com.82flex.wtvrbglauncher
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: 嗨-工具
+Maintainer: Lessica
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/WTVRBGLauncher_rootless_0.0.3_iphoneos-arm64.deb
+Size: 5944
+MD5sum: 93d07bbdc75e49728ef05149cd3c4c90
+SHA1: a6496db70ff3ba4ca970603a4fce98ce41392dfa
+SHA256: 52dbc6e1616f49b19b0441a8685de881294e7d3925232f2abe6ef80b9e33efc3
+SHA512: c3aae9b280debcf70fe34e4687f567c1709d523561d6415587145ca1f6e0017714c3da4a61ad8321cae4bc123bda602dcef6187f25fdb8f56a9892a84317b14a
+Description: App内调用输入法的“语音转文字”功能时，免去跳转的过程；支持微信输入法，百度输入法，讯飞输入法，搜狗输入法。无开关，安装即可生效。
+Name: WTVRBGLauncher(rootless)
+Author: Lessica
+
 Package: cn.llld.snapshottool
 Architecture: iphoneos-arm64e
 Version: 4.2-2+debug
