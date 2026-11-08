@@ -1172,6 +1172,22 @@ Description: 定位导致设备过热/耗电的进程/插件/App（thermalState 
 Name: 耗电发热排行榜
 Author: jumping8
 
+Package: com.jumping.thermaldetect
+Architecture: iphoneos-arm64
+Version: 1.0.26
+Section: Utilities
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: debs/耗电发热排行榜.deb
+Size: 184360
+MD5sum: 5ef9c8a5938e7d1cbd672636dd3deed1
+SHA1: e13d8712f4bd67a047b0c592972a2b10002f303b
+SHA256: 10e706714fb92df46669c8dafc7cf68698b54476f35e150aa099ccbb3bffb637
+SHA512: b71b0477e7070dfd6c4ffa8a0f05b9c0298030100d19fbac768ec693a67af16b1dd30561da7ca62ade81cc8ba10f1165143443b073d3b5a73023b3b2321ec545
+Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（无根/rootless 版：安装到 /var/jb，适用 Dopamine 等无根越狱；roothide 环境请装隐根版）
+Name: 耗电发热排行榜
+Author: jumping8
+
 Package: byg.iosios.net.autofaceunlock-rootless
 Architecture: iphoneos-arm64
 Version: 1.1-7
