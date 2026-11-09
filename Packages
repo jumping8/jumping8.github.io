@@ -812,22 +812,6 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
-Package: com.jumping.thermaldetect
-Architecture: iphoneos-arm64e
-Version: 1.0.22
-Section: Utilities
-Maintainer: jumping8
-Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
-Filename: debs/com.jumping.thermaldetect_1.0.22_iphoneos-arm64e_roothide.deb
-Size: 177386
-MD5sum: ffc15ad47eef40f7574827816891daee
-SHA1: b41fa296d023c7c55fe42265f200e193e16c8831
-SHA256: 878cc92a61e381d17d2d893d2fd83aae7ed84f5dfc444a19c29a916d61c82145
-SHA512: e47ee67758923dc0e243ce0f406df32a677e2263812b76976a4835b3141cc2dde837317fdd721ab123c51399326b40638f580f03fbda5b51d66256ad9628670d
-Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（roothide 隐根版：dpkg 自动装入随机 jbroot；适用 RootHide / Dopamine roothide 等，仅 A12+ arm64e）
-Name: 耗电发热排行榜
-Author: jumping8
-
 Package: com.lessica.camover
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -1155,22 +1139,6 @@ Name: 移除小组件背景-Rootless
 Author: Lessica
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
-
-Package: com.jumping.thermaldetect
-Architecture: iphoneos-arm64
-Version: 1.0.22
-Section: Utilities
-Maintainer: jumping8
-Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
-Filename: debs/耗电发热排行榜-arm64.deb
-Size: 177460
-MD5sum: 66a38db19672eb002687b3b325474e01
-SHA1: 79378c0516bcfffb32fe84aa7ea7eb25197afdf3
-SHA256: 54e2e233f759b23842683ba3fe4458808ae8b21284819ffb93f135d48be99be3
-SHA512: f89ae06f5f6644e4a6a6f9476d3feb89ce270a59f0f4dfb981708a93becdd824eec08e4af10e045869d2aa0097749abfda1c71b7d262591d49d7c1c69c0e348f
-Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（无根/rootless 版：安装到 /var/jb，适用 Dopamine 等无根越狱；有根环境请装有根版）
-Name: 耗电发热排行榜
-Author: jumping8
 
 Package: com.jumping.thermaldetect
 Architecture: iphoneos-arm64
