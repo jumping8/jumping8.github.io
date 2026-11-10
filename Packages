@@ -874,23 +874,6 @@ Name: 耗电发热排行榜
 Author: jumping8
 Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
 
-Package: com.jumping.thermaldetect
-Architecture: iphoneos-arm64e
-Version: 1.0.32
-Section: Utilities
-Maintainer: jumping8
-Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
-Filename: debs/com.jumping.thermaldetect_1.0.32_iphoneos-arm64e_roothide.deb
-Size: 235162
-MD5sum: 481bc69e99c8a13e847f257ede39c91a
-SHA1: ba32522c7d8478f2af8e916cb8ff43383f0c1ad7
-SHA256: 930bcb0e340b8b349a3e65ab0526c669dba73148c32a9ecf563b6d0da7716038
-SHA512: 53dc92b30060e84cb32942291b60b310aabf3e9b0974fff3566df27e2931bdaf63137ea7469244e19496bfef8c62efd65b08d65cfd2242ca47579c12f996ae31
-Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（roothide 隐根版：dpkg 自动装入随机 jbroot；适用 RootHide / Dopamine roothide 等，仅 A12+ arm64e）
-Name: 耗电发热排行榜
-Author: jumping8
-Icon: file:///Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
-
 Package: com.lessica.camover
 Architecture: iphoneos-arm64e
 Version: 0.0.1
