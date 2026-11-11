@@ -840,6 +840,23 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
+Package: com.jumping.thermaldetect
+Architecture: iphoneos-arm64
+Version: 1.0.32
+Section: Utilities
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: debs/com.jumping.thermaldetect_1.0.32_iphoneos-arm64.deb
+Size: 235208
+MD5sum: b11ff8b81d7bf14f5ea364962c5d7258
+SHA1: d1bb97152a20e4ad25083fa0882eaa4f12673a7d
+SHA256: d37f98e44a6fa28bc7f6ec84675f124d5c16971e784b097bbdb642469a98969f
+SHA512: 780a2a713076cf8599f146ef64c81298ea60c9a349e7736024a604bec5b0261ab835cb7cfec8513ba3fe27c87ea8c62b75d0e16d3c429f24d301cd34672c8422
+Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（无根/rootless 版：安装到 /var/jb，适用 Dopamine 等无根越狱；roothide 环境请装隐根版）
+Name: 耗电发热排行榜
+Author: jumping8
+Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
+
 Package: com.lessica.camover
 Architecture: iphoneos-arm64e
 Version: 0.0.1
