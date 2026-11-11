@@ -842,23 +842,6 @@ Author: iosdump
 
 Package: com.jumping.thermaldetect
 Architecture: iphoneos-arm64
-Version: 1.0.31
-Section: Utilities
-Maintainer: jumping8
-Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
-Filename: debs/com.jumping.thermaldetect_1.0.31_iphoneos-arm64.deb
-Size: 223352
-MD5sum: bf4b27ff83b3a08c2ddfed84e2ade868
-SHA1: 0bcc653e4893e76127f6b109f9989d2daa7fd1fb
-SHA256: 2364b4a47692cdd022f30bb33ea9081149242d061f29b132f7867a9825d187dd
-SHA512: 194f89924e6b79c96c9310906199d952a67aa94e8f1fdd76efbc14bac11c744d6afa0a846e325f504ccd2b0558c754af5c1047353bf282e1e434ba0bbe3cbee4
-Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（无根/rootless 版：安装到 /var/jb，适用 Dopamine 等无根越狱；roothide 环境请装隐根版）
-Name: 耗电发热排行榜
-Author: jumping8
-Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
-
-Package: com.jumping.thermaldetect
-Architecture: iphoneos-arm64
 Version: 1.0.32
 Section: Utilities
 Maintainer: jumping8
