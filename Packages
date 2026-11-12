@@ -842,6 +842,23 @@ Author: iosdump
 
 Package: com.jumping.thermaldetect
 Architecture: iphoneos-arm64
+Version: 1.0.32-2
+Section: Utilities
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: debs/com.jumping.thermaldetect_1.0.32-2_iphoneos-arm64.deb
+Size: 319084
+MD5sum: 685f3939bebdb319e1384a65fb4d7375
+SHA1: 94a65045d0d08c21c0e47c6c2f095f8385b3aad8
+SHA256: 65841230b9f671ee916c1f7aee8dce68559468fa098eb94af1fcbe36304f3f81
+SHA512: 29874268c921d95d77d301a3600c6043980c000138081176ccfa5682db36868e972b0f12ef59aa8d2365a926fe10cb8f9bb5d027215100ddbf0453e592a11e27
+Description: 定位哪个插件耗电发热排行榜，仅16.2系统真机，其他系统要安装自行负责。
+Name: 耗电发热排行榜
+Author: jumping8
+Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon.png
+
+Package: com.jumping.thermaldetect
+Architecture: iphoneos-arm64
 Version: 1.0.32
 Section: Utilities
 Maintainer: jumping8
