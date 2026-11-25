@@ -1038,6 +1038,29 @@ Description: 原生岛通知，从简即可。仅仅支持iOS16.0+ (patched: dur
 Name: native-island-notifier
 Author: sunshinesong
 
+Package: com.wubage.answerspeaker
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer: jumping8
+Installed-Size: 0
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.wubage.answerspeaker_1.0.0_iphoneos-arm64.deb
+Size: 42958
+MD5sum: be04834fe9a31e1eef6f7eafbc8e836a
+SHA1: 67a1352e7377ecd032e88ccedb049961b98b1351
+SHA256: 628bd4f8c3657974d12a49ee275ea50eca045bdcc0c8fe569dfc3fcaeb8cb57d
+SHA512: 4ec1f4412fbec347afc23ad24af2dce55829f4adab34f2cf87c2200e64ee963fa867b0d027cd34ba017569393e3083f8b81b9b4783978dbd182d430373ce380e
+Description: 来电界面增加「接听并免提」按钮，保留原生接听/拒绝按钮。
+ 全屏来电页与顶部来电横幅都会在原生接听按钮旁插入一个绿色按钮。
+ 点击后复用系统原生接听动作，再自动打开免提；不猜私有 CallKit 签名。
+ 安全设计：主线程操作、重入保护、异常熔断、崩溃自恢复、DISABLE 逃生门。
+ 设置：/var/mobile/Documents/AnswerSpeaker/config.txt
+ 日志：/var/mobile/Library/Logs/AnswerSpeaker.log
+Name: 接听免提 AnswerSpeaker
+Author: jumping8
+
 Package: com.xina.blacklist
 Architecture: iphoneos-arm64
 Version: 0.0.3-1+debug
